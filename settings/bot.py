@@ -1,5 +1,5 @@
 """
-Initializing Telegram bot instance with aiogram
+Initializing Telegram bot instance with telebot
 """
 import telebot
 
